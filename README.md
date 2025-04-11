@@ -5,8 +5,7 @@ El script implementa la suma de dos numeros y realiza la validacion los operando
 - Suma pos operandos
 - **Verifica** que los operandos sean numeros (int o float)
 - [Repositorio GitHub]([https://github.com/lhenryporta27/operacion-suma.git)
-- ![Logo Python](https://cdn3d.iconscout.com/3d/free/preview/free-logotipo-en-lenguaje-python-6563563-5453026.png?f=webp&h=700](https://imgcdn.stablediffusionweb.com/2024/10/8/65b72d79-7854-4c3b-854e-98cbb8a349b7.jpg))
-
+- ![Logo Python](https://static-00.iconduck.com/assets.00/logo-python-icon-506x512-t38ct41x.png)
 ### Equipo de desarrollo
 | Apellido y nombres | Rol |
 | ------------------ | --- |
